@@ -4,7 +4,7 @@
 - 📖 Cursando atualmente Engenharia da Computação 9º Semestre
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus.brito.br)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-brito-4aa977264/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-brito-4aa977264/)
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusSPBrito&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSPBrito&&hide_progress=true)](https://github.com/MateusSPBrito/github-readme-stats)
