@@ -1,7 +1,7 @@
 ### Olá, eu sou Mateus Brito 👋
 
 - 🌱 Atualmente estou aprendendo desenvolvimento web, com foco maior no front-end
-- 📖 Cursando atualmente Engenharia da Computação 9º Semestre
+- 📖 Cursando Engenharia da Computação 9º Semestre
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus.brito.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-brito-4aa977264/)
