@@ -1,4 +1,4 @@
-## Olá, eu sou Mateus Brito 👋
+### Olá, eu sou Mateus Brito 👋
 
 - 🌱 Atualmente estou aprendendo desenvolvimento web, com foco maior no front-end
 - 📖 Cursando atualmente Engenharia da Computação 9º Semestre
