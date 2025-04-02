@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Mateus Santana, tenho 24 anos e sou natural da Bahia. Me formei em engenharia da computação pela Unifacs e foi lá que comecei a estudar e me apaixonar por programação, em especial web e mobile. Atualmente sigo adquirindo conhecimento e experiência nessa área, estando sempre aberto a novas oportunidades e desafios.
+Me chamo Mateus Santana, tenho 24 anos e sou natural da Bahia. Me formei em Engenharia da Computação pela Unifacs e foi lá que comecei a estudar e me apaixonar por programação, em especial web e mobile. Atualmente sigo adquirindo conhecimento e experiência nessa área, estando sempre aberto a novas oportunidades e desafios.
 Se quiser bater um papo sobre tecnologia ou trabalho, me chame!
 
 <p align="start">
